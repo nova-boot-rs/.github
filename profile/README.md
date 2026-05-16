@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/nb-social-preview.png" alt="Nova-boot" width="100%" />
+  <img src="/profile/nb-social-preview.png" alt="Nova-boot" width="100%" />
 </p>
 
 <p align="center">
